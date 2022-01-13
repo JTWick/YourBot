@@ -8,7 +8,7 @@ public class App {
             Bot.workBot();
         }
         {
-            Bot.QuizBot();
+            Bot.quizBot();
         }
         Bot.bot();
     }
