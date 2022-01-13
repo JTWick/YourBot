@@ -63,7 +63,7 @@ public class Bot {
         }
 
     }
-    public static void QuizBot() {
+    public static void quizBot() {
         Scanner scan = new Scanner(System.in);
         System.out.println("Do you want to take a quiz?");
         String answ = scan.next();
