@@ -2,7 +2,7 @@ package org.vashonsd;
 
 import java.util.Scanner;
 
-public class RandomBot {
+public class Bot {
     public static void playGames() {
         Scanner scan = new Scanner(System.in);
         System.out.println("Do you want to play a game?");
