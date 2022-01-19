@@ -3,13 +3,13 @@ package org.vashonsd;
 public class App {
 
     public static void main(String[] args) {
-        Bot.playGames();
+        RandomBot.playGames();
         {
-            Bot.workBot();
+            RandomBot.workBot();
         }
         {
-            Bot.quizBot();
+            RandomBot.quizBot();
         }
-        Bot.bot();
+        RandomBot.bot();
     }
 }
